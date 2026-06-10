@@ -52,7 +52,7 @@ Documentation Agent
 ---
 
 ## Project Structure
-
+```
 ai-dev-team/
 
 app/
@@ -64,7 +64,7 @@ app/
 
 requirements.txt
 run.py
-
+```
 ---
 
 ## Installation
